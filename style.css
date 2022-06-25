@@ -136,7 +136,9 @@ body {
   .wrapper {
     width: 1440px;
     height: 800px;
-    display: contents;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
   }
 
